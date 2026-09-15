@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.GymLog" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
